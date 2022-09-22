@@ -15,5 +15,3 @@ Once this project is installed on your machine, go the ```proj.py``` and type th
       python proj.py                        
 The gray face images for ```star_images``` and ```test_images``` will be automatically created at ```star_faces``` and ```test_faces```
 The "mean faces" images and "eigen faces" images will be automatically created at ```eigen_faces```
-### Author ###
-Ivan Chen
